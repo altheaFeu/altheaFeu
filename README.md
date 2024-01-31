@@ -1,5 +1,4 @@
-<h1 align="center">Bonjour 👋 Je m'appelle Althéa</h1>
-<h3 align="center">Je suis une développeuse SIG</h3>
+![github-header-image](https://github.com/altheaFeu/altheaFeu/assets/123597411/89dbfb48-d876-40d7-9452-46744ffc5cde)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altheafeu&label=Profile%20views&color=0e75b6&style=flat" alt="altheafeu" /> </p>
 
