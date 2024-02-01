@@ -28,7 +28,7 @@
 <p align="left"></p>
 
 <h3 align="left">Base de donnée :</h3>
-<p align="left">Rajouter DBeaver</p>
+<p align="left">Rajouter DBeaver, Postgis</p>
 
 <h3 align="left">Devops :</h3>
 <p align="left">Rajouter DBeaver</p>
