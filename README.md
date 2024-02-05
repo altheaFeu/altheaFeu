@@ -72,4 +72,11 @@
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=donut)](https://github.com/altheafeu/github-readme-stats)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <div style="margin-right: 20px;">
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=donut)](https://github.com/altheafeu/github-readme-stats)
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheafeu&" alt="altheafeu" />
+  </div>
+</div>
