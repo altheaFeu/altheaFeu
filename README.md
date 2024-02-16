@@ -93,19 +93,12 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<div style="display: flex; justify-content: space-between;align:center">
-  <!-- Top Languages Card -->
-  <div>
-    <a href="https://github.com/altheafeu/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact" alt="Top Langs" />
-    </a>
-  </div>
-  
-  <!-- GitHub Streak Stats Card -->
-  <div>
-    <a href="https://github.com/altheafeu/github-readme-stats">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheafeu" alt="GitHub Streak Stats" />
-    </a>
-  </div>
-</div>
+<p align="center">
 
+  <!-- Top Languages Card -->
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact)](https://github.com/altheafeu/github-readme-stats)
+
+  <!-- GitHub Streak Stats Card -->
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altheafeu)](https://github.com/altheafeu/github-readme-streak-stats)
+
+</p>
