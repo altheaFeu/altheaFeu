@@ -95,8 +95,17 @@
 
 <div style="display: flex; justify-content: space-between;">
   <!-- Top Languages Card -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=donut)](https://github.com/altheafeu/github-readme-stats)
+  <div>
+    <a href="https://github.com/altheafeu/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact" alt="Top Langs" />
+    </a>
+  </div>
   
   <!-- GitHub Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheafeu" alt="GitHub Streak Stats" />
+  <div>
+    <a href="https://github.com/altheafeu/github-readme-stats">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheafeu" alt="GitHub Streak Stats" />
+    </a>
+  </div>
 </div>
+
