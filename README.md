@@ -27,7 +27,7 @@
 </p>
 
 <div align="center">
-<table>
+<table border-spacing = "15px">
 <tr>
 <td>
 
