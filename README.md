@@ -21,8 +21,10 @@
 <a href="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Logiciels SIG :</h3>
-<p align="left"></p>
+<h3 align="left">Logiciels et servers SIG :</h3>
+<p align="left">
+  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="40" height="40"/> </a>   
+</p>
 
 <h3 align="left">Languages de programmation :</h3>
 
