@@ -93,12 +93,25 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<p align="center">
+<div align="center">
 
-  <!-- Top Languages Card -->
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact)](https://github.com/altheafeu/github-readme-stats)
+  <!-- Tableau pour aligner les badges horizontalement -->
+  <table>
+    <tr>
+      <td>
 
-  <!-- GitHub Streak Stats Card -->
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altheafeu)](https://github.com/altheafeu/github-readme-streak-stats)
+        <!-- Top Languages Card -->
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact)](https://github.com/altheafeu/github-readme-stats)
 
-</p>
+      </td>
+      <td>
+
+        <!-- GitHub Streak Stats Card -->
+        [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altheafeu)](https://github.com/altheafeu/github-readme-streak-stats)
+
+      </td>
+    </tr>
+  </table>
+
+</div>
+
