@@ -17,9 +17,11 @@
 
 - 💬 Pose moi toutes tes questions **sur les problématiques SIG, le développement de plugin QGIS ou sur les projets Lizmap**
 
-<h3 align="left">Rejoins moi sur Linkedin :</h3>
+<div align="center">
+<h2 align="left">Rejoins moi sur Linkedin :</h3>
 <a href="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" height="30" width="40" /></a>
 </p>
+</div>
 
 <h3 align="left">Logiciels et servers SIG :</h3>
 <p align="left">
