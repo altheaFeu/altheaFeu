@@ -1,5 +1,12 @@
 ![github-header-image](https://github.com/altheaFeu/altheaFeu/assets/123597411/89dbfb48-d876-40d7-9452-46744ffc5cde)
 
+<style>
+  /* Ajoutez le style pour désactiver les soulignements */
+  .icon-container a {
+    text-decoration: none;
+  }
+</style>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altheafeu&label=Profile%20views&color=0e75b6&style=flat" alt="altheafeu" /> </p>
 
 - 🔭 Je travaille actuellement sur **des projets Lizmap**
