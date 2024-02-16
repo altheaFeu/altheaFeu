@@ -21,7 +21,7 @@
   <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> <img src="https://incom.tomsk.ru/upload/iblock/183/18321267d96e5472247a0d4ffd079ed5.png" alt="geoserver" width="40" height="40"/> </a> 
   <a href="https://www.lizmap.com/" target="_blank" rel="noreferrer"> <img src="https://www.3liz.com/images/logo-lizmap.png" alt="lizmap" width="40" height="40"/> </a> 
   <a href="https://www.veremes.com/produits/fme/fme-form" target="_blank" rel="noreferrer"> <img src="https://www.geonov.fr/fig/actualites/fme-logo-2023-min.png" alt="fme" width="80" height="40"/> </a> 
-  <a href="https://fr.geoconcept.com/" target="_blank" rel="noreferrer"> <img src="https://fr.geoconcept.com/sites/all/themes/geoevo/assets/images/logo.png" alt="geoconcept" width="100" height="40"/> </a> 
+  <a href="https://fr.geoconcept.com/" target="_blank" rel="noreferrer"> <img src="https://fr.geoconcept.com/sites/all/themes/geoevo/assets/images/logo.png" alt="geoconcept" width="120" height="40"/> </a> 
   <a href="https://josm.openstreetmap.de/" target="_blank" rel="noreferrer"> <img src="https://josm.openstreetmap.de/logo.png" alt="josm" width="40" height="40"/> </a> 
   <a href="https://step.esa.int/main/download/snap-download/" target="_blank" rel="noreferrer"> <img src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon.jpg" alt="snap" width="40" height="40"/> </a> 
 </p>
