@@ -1,12 +1,5 @@
 ![github-header-image](https://github.com/altheaFeu/altheaFeu/assets/123597411/89dbfb48-d876-40d7-9452-46744ffc5cde)
 
-<style>
-  /* Ajoutez le style pour désactiver les soulignements */
-  .icon-container a {
-    text-decoration: none;
-  }
-</style>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altheafeu&label=Profile%20views&color=0e75b6&style=flat" alt="altheafeu" /> </p>
 
 - 🔭 Je travaille actuellement sur **des projets Lizmap**
@@ -23,7 +16,15 @@
 
 <h3 align="left">Logiciels et servers SIG :</h3>
 <p align="left">
-  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="80" height="40"/> </a>   
+  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="80" height="40"/> </a> 
+  <a href="https://www.arcgis.com/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/640px-ArcGIS_logo.png" alt="arcgis" width="40" height="40"/> </a> 
+  <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> <img src="https://incom.tomsk.ru/upload/iblock/183/18321267d96e5472247a0d4ffd079ed5.png" alt="geoserver" width="40" height="40"/> </a> 
+  <a href="https://www.lizmap.com/" target="_blank" rel="noreferrer"> <img src="https://www.3liz.com/images/logo-lizmap.png" alt="lizmap" width="40" height="40"/> </a> 
+  <a href="https://www.veremes.com/produits/fme/fme-form" target="_blank" rel="noreferrer"> <img src="https://www.geonov.fr/fig/actualites/fme-logo-2023-min.png" alt="fme" width="80" height="40"/> </a> 
+  <a href="https://www.veremes.com/produits/fme/fme-form" target="_blank" rel="noreferrer"> <img src="https://www.geonov.fr/fig/actualites/fme-logo-2023-min.png" alt="fme" width="60" height="40"/> </a> 
+  <a href="https://fr.geoconcept.com/" target="_blank" rel="noreferrer"> <img src="https://s3.amazonaws.com/media.mixrank.com/hero-img/2d98839f0d75445f9f1f45683e311b56" alt="geoconcept" width="40" height="40"/> </a> 
+  <a href="https://josm.openstreetmap.de/" target="_blank" rel="noreferrer"> <img src="https://josm.openstreetmap.de/logo.png" alt="josm" width="40" height="40"/> </a> 
+  <a href="https://step.esa.int/main/download/snap-download/" target="_blank" rel="noreferrer"> <img src="https://eo4society.esa.int/wp-content/uploads/2018/11/SNAP_icon.jpg" alt="snap" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Languages de programmation :</h3>
