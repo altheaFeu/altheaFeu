@@ -23,7 +23,7 @@
 
 <h3 align="left">Logiciels et servers SIG :</h3>
 <p align="left">
-  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="40" height="40"/> </a>   
+  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="80" height="40"/> </a>   
 </p>
 
 <h3 align="left">Languages de programmation :</h3>
