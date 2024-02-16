@@ -6,7 +6,7 @@
 
 - 🌱 En ce moment, j'étudie pour passer la certification **"CS50’s Web Programming with Python and JavaScript"** d'Harvard
 
-- 🤝 Je cherche de l'aide en **React**
+- 🤝 Je cherche de l'aide en **Java**
 
 - 💬 Pose moi toutes tes questions **sur les problématiques SIG, le développement de plugin QGIS ou sur les projets Lizmap**
 
@@ -14,12 +14,11 @@
 <a href="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/althéa-feuillet-81b7b717b/" height="30" width="40" /></a>
 </p>
 
-
 <h3 align="left">Logiciels SIG :</h3>
 <p align="left"></p>
 
 <h3 align="left">Languages de programmation :</h3>
-<p align="left"></p>
+<p align="left">Rajouter sas</p>
 
 <h3 align="left">Développement Frontend :</h3>
 <p align="left"></p>
@@ -40,13 +39,15 @@
 <p align="left">Rajouter pytest et scrapy</p>
 
 <h3 align="left">UNIX/GIT :</h3>
-<p align="left">Rajouter </p>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>   
+</p>
 
 <h3 align="left">Autres logiciels :</h3>
 <p align="left">Rajouter powerbi
 </p>
   
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+  
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
