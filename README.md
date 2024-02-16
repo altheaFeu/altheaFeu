@@ -94,24 +94,16 @@
 </p>
 
 <div align="center">
-
-  <!-- Tableau pour aligner les badges horizontalement -->
   <table>
     <tr>
       <td>
-
-        <!-- Top Languages Card -->
         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact)](https://github.com/altheafeu/github-readme-stats)
 
       </td>
       <td>
-
-        <!-- GitHub Streak Stats Card -->
         [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=altheafeu)](https://github.com/altheafeu/github-readme-streak-stats)
-
       </td>
     </tr>
   </table>
-
 </div>
 
