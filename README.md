@@ -93,7 +93,7 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 </p>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between;align:center">
   <!-- Top Languages Card -->
   <div>
     <a href="https://github.com/altheafeu/github-readme-stats">
