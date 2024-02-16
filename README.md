@@ -97,16 +97,10 @@
   <table>
     <tr>
       <td>
-        <!-- Top Languages Card -->
-        <a href="https://github.com/altheafeu/github-readme-stats">
-          Voir les langages principaux
-        </a>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=altheafeu&layout=compact" alt="Top Langs" />
       </td>
       <td>
-        <!-- GitHub Streak Stats Card -->
-        <a href="https://github.com/altheafeu/github-readme-stats">
-          Voir les statistiques de séquence GitHub
-        </a>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=altheafeu" alt="GitHub Streak Stats" />
       </td>
     </tr>
   </table>
