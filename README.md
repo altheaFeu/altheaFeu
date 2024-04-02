@@ -6,7 +6,7 @@
 
 - 🌱 En ce moment, j'étudie pour passer la certification **"CS50’s Web Programming with Python and JavaScript"** d'Harvard
 
-- 🤝 Je cherche de l'aide en **Java**
+- 🤝 Je cherche de l'aide en **React/Angular**
 
 - 💬 Pose moi toutes tes questions **sur les problématiques SIG, le développement de plugin QGIS ou sur les projets Lizmap**
 
