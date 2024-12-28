@@ -16,7 +16,7 @@
 
 <h3 align="left">Logiciels et servers SIG :</h3>
 <p align="left">
-  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="https://www.qgis.org/fr/_images/main_logo.png" alt="qis" width="80" height="40"/> </a> 
+  <a href="https://www.qgis.org/fr/site/" target="_blank" rel="noreferrer"> <img src="[https://www.qgis.org/fr/_images/main_logo.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3AQGIS_logo_minimal.svg&psig=AOvVaw09w9l14P5KJVS-5oHM5kDM&ust=1735513037171000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJj6woTIy4oDFQAAAAAdAAAAABAE)" alt="qis" width="80" height="40"/> </a> 
   <a href="https://www.arcgis.com/index.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/ArcGIS_logo.png/640px-ArcGIS_logo.png" alt="arcgis" width="40" height="40"/> </a> 
   <a href="https://geoserver.org/" target="_blank" rel="noreferrer"> <img src="https://incom.tomsk.ru/upload/iblock/183/18321267d96e5472247a0d4ffd079ed5.png" alt="geoserver" width="40" height="40"/> </a> 
   <a href="https://www.lizmap.com/" target="_blank" rel="noreferrer"> <img src="https://www.3liz.com/images/logo-lizmap.png" alt="lizmap" width="40" height="40"/> </a> 
