@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=altheafeu&label=Profile%20views&color=0e75b6&style=flat" alt="altheafeu" /> </p>
 
-- 🔭 Je travaille actuellement sur **des projets Lizmap**
+- 🔭 Je travaille actuellement sur **des projets SIG opensource**
 
-- 🌱 En ce moment, j'étudie pour passer la certification **"CS50’s Web Programming with Python and JavaScript"** d'Harvard
+- 🌱 En ce moment, **je continue à développer mes compétences en laravel et en backend** 
 
 - 🤝 Je cherche de l'aide en **React/Angular**
 
